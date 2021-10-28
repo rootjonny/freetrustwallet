@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 26 May 2021 18:55:39 at https://ostabat.ir/Trust/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ostabat.ir/Trust/ -O1 "C:\My Web Sites\trustwalletfreeairdrop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:56:02	Error: 	"Not Found" (404) at link https://ostabat.ir/www.google-analytics.com/analytics.js (from https://ostabat.ir/Trust/)
+18:56:02	Error: 	"Not Found" (404) at link https://ostabat.ir/www.googletagmanager.com/gtm983a.js (from https://ostabat.ir/Trust/)
+18:56:02	Error: 	"Not Found" (404) at link https://ostabat.ir/Trust/ios.html (from https://ostabat.ir/Trust/)
+18:56:03	Error: 	"Not Found" (404) at link https://ostabat.ir/ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js (from https://ostabat.ir/Trust/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 15 links scanned, 10 files written (664704 bytes overall) [212806 bytes received at 8866 bytes/sec], 781728 bytes transferred using HTTP compression in 12 files, ratio 19%, 5.0 requests per connection
+(4 errors, 0 warnings, 0 messages)
